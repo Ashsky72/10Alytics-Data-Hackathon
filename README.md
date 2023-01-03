@@ -32,3 +32,7 @@ Let’s focus on Africa in this dataset and provide the solutions to the health 
 ## Exploratory Data Analysis
 
 For the EDA and other data wrangling tasks, consult the file [`Eda.ipynb file`](https://github.com/Ashsky72/10Alytics-Data-Hackathon/blob/main/Eda.ipynb).
+
+## Insights, Conclusion and Recommendation
+
+For detailed analysis insights, conclusion and recommendation, consult the file [`Analysis Insights`]

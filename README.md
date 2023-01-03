@@ -14,5 +14,5 @@ Let’s focus on Africa in this dataset, You are required to provide solutions t
 
 
 ## Datasets
-
-  ![] (https://github.com/Ashsky72/10Alytics-Data-Hackathon/blob/main/Assets/Dataset.png)
+  
+ <img src="https://github.com/Ashsky72/10Alytics-Data-Hackathon/blob/main/Assets/Dataset.png"/>

@@ -26,3 +26,8 @@ Let’s focus on Africa in this dataset and provide the solutions to the health 
 5. What is the age distribution of deaths in Africa? What age group are more at risk of dying due to diseases?
 6. Are the number of medical doctors in Africa sufficient?
 7. Are African governments doing enough in yearly budgets to health sector? What is the situation and what is the ideal situation?
+
+
+## Exploratory Data Analysis
+
+For the EDA and other data wrangling tasks, consult the file `Eda.ipynb file`.

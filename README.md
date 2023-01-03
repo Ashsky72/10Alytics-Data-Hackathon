@@ -11,3 +11,8 @@ Health systems across Africa are underfunded and understaffed. Less than half of
 planning needs of half the continent’s women and girls are unmet.
 
 Let’s focus on Africa in this dataset, You are required to provide solutions to the health challenges, especially in Africa. 
+
+
+## Datasets
+
+  ![] (https://github.com/Ashsky72/10Alytics-Data-Hackathon/blob/main/Assets/Dataset.png)
